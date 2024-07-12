@@ -1,0 +1,110 @@
+[
+    {
+      "name": "LeBron James",
+      "image": "https://i.pinimg.com/564x/73/30/3a/73303a5f2ddd0a49f4fc8f7e2e6d51ef.jpg",
+      "position": "Forward",
+      "stats": { "pointsPerGame": 25.4, "assistsPerGame": 7.1, "reboundsPerGame": 10.5 }
+    },
+    {
+      "name": "Stephen Curry",
+      "image": "https://wallpapers.com/images/hd/steph-curry-3840-x-2400-picture-c0dx6pa2yq7c2og8.jpg",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 27.1, "assistsPerGame": 6.3, "reboundsPerGame": 5.2 }
+    },
+    {
+      "name": "Kevin Durant",
+      "image": "https://wallpapers.com/images/featured/kevin-durant-pictures-2xz751399vuq2ve8.jpg",
+      "position": "Forward",
+      "stats": { "pointsPerGame": 27.0, "assistsPerGame": 5.2, "reboundsPerGame": 7.1 }
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "image": "https://static01.nyt.com/images/2021/08/10/sports/10nba-giannis1-print/merlin_190861293_25306169-ccfc-4e7b-b09f-042fd8218ae1-mediumSquareAt3X.jpg",
+      "position": "Forward",
+      "stats": { "pointsPerGame": 28.5, "assistsPerGame": 5.9, "reboundsPerGame": 11.0 }
+    },
+    {
+      "name": "James Harden",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/james-harden-of-the-philadelphia-76ers-looks-on-during-the-news-photo-1698875394.jpg?crop=0.668xw:1.00xh;0.0401xw,0&resize=1200:*",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 24.6, "assistsPerGame": 10.8, "reboundsPerGame": 7.9 }
+    },
+    {
+      "name": "Luka Dončić",
+      "image": "https://wallpapers.com/images/hd/luka-doncic-nba-rookie-ynu0kbgmapyihbx1.jpg",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 28.8, "assistsPerGame": 8.6, "reboundsPerGame": 8.1 }
+    },
+    {
+      "name": "Kawhi Leonard",
+      "image": "https://wallpapers.com/images/hd/nba-player-kawhi-leonard-fi1pvkvzf5vk0u4f.jpg",
+      "position": "Forward",
+      "stats": { "pointsPerGame": 24.5, "assistsPerGame": 5.0, "reboundsPerGame": 7.0 }
+    },
+    {
+      "name": "Anthony Davis",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Anthony_Davis_pre-game_%28cropped%29.jpg",
+      "position": "Forward",
+      "stats": { "pointsPerGame": 23.4, "assistsPerGame": 3.1, "reboundsPerGame": 10.2 }
+    },
+    {
+      "name": "Damian Lillard",
+      "image": "https://example.com/dame.jpg",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 24.8, "assistsPerGame": 7.0, "reboundsPerGame": 4.2 }
+    },
+    {
+      "name": "Nikola Jokić",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2021/12/120621-damian-lillard.jpg?quality=90&strip=all",
+      "position": "Center",
+      "stats": { "pointsPerGame": 26.4, "assistsPerGame": 8.8, "reboundsPerGame": 11.1 }
+    },
+    {
+      "name": "Joel Embiid",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvh1S3dxAWC3mWlGk7_s9ZLDeZHOrGyy0tw&s",
+      "position": "Center",
+      "stats": { "pointsPerGame": 29.3, "assistsPerGame": 4.3, "reboundsPerGame": 10.6 }
+    },
+    {
+      "name": "Jayson Tatum",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wrQO_OsGZvv9B77LOoHWwjL1gAZA7RniRw&s",
+      "position": "Forward",
+      "stats": { "pointsPerGame": 26.8, "assistsPerGame": 4.4, "reboundsPerGame": 7.6 }
+    },
+    {
+      "name": "Devin Booker",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F12%2Fdevin-booker-next-nike-nba-basketball-signature-shoe-news-0000.jpg?w=960&cbr=1&q=90&fit=max",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 25.6, "assistsPerGame": 4.8, "reboundsPerGame": 4.2 }
+    },
+    {
+      "name": "Kyrie Irving",
+      "image": "https://media.wired.com/photos/5c05b8d6d146d62d209935e1/master/pass/kyrieirving-1061271464.jpg",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 23.8, "assistsPerGame": 5.7, "reboundsPerGame": 4.9 }
+    },
+    {
+      "name": "Jimmy Butler",
+      "image": "https://cdn.britannica.com/69/244269-050-323A6D5E/Jimmy-Butler-Miami-Heat-playoffs.jpg",
+      "position": "Forward",
+      "stats": { "pointsPerGame": 21.5, "assistsPerGame": 5.3, "reboundsPerGame": 6.9 }
+    },
+    {
+      "name": "Bradley Beal",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwBjM7cGTJ3ax2t19F4jCBmOrkl7OmxYwISQ&s",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 22.1, "assistsPerGame": 5.6, "reboundsPerGame": 4.1 }
+    },
+    {
+      "name": "Trae Young",
+      "image": "https://static01.nyt.com/images/2022/04/27/arts/00morris-young1/merlin_205831083_a02f0c42-eb08-4399-9c5a-9621ee8aa865-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 25.3, "assistsPerGame": 9.3, "reboundsPerGame": 3.9 }
+    },
+    {
+      "name": "Donovan Mitchell",
+      "image": "https://i.pinimg.com/originals/b1/b7/40/b1b740e8a33c409e5bc3ab45e9c1c68c.png",
+      "position": "Guard",
+      "stats": { "pointsPerGame": 24.3, "assistsPerGame": 4.5, "reboundsPerGame": 4.1 }
+    }
+  ]
