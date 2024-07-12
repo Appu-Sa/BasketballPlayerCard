@@ -1,30 +1,30 @@
 # React + Vite
 
 # Getting Started
-Prerequisites
-Node.js (version 14 or higher)
-npm (version 6 or higher)
-A code editor or IDE of your choice
+# Prerequisites
+Node.js (version 14 or higher),
+npm (version 6 or higher),
+A code editor or IDE of your choice,
 # Installation
-Navigate to the project directory
-Install dependencies: npm install
+Navigate to the project directory.
+Install dependencies: npm install.
 # Running the App
-Start the development server: npm run dev
-Open your web browser and navigate to http://localhost:3000
+Start the development server: npm run dev.
+Open your web browser and navigate to http://localhost:3000.
 # Building the App
-Run npm run build to build the app for production
-The built app will be available in the dist folder
+Run npm run build to build the app for production.
+The built app will be available in the dist folder.
 Development
 # Available Scripts
-npm run dev: Starts the development server
-npm run build: Builds the app for production
-npm run test: Runs the test suite
+npm run dev: Starts the development server.
+npm run build: Builds the app for production.
+npm run test: Runs the test suite.
 # Code Structure
-src: Source code for the app
-src/components: Reusable React components
-src/assets: Static assets (images, etc.)
-src/data: Sample data for the app
-public: Publicly accessible files (index.html, etc.)
+src: Source code for the app.
+src/components: Reusable React components.
+src/assets: Static assets (images, etc.).
+src/data: Sample data for the app.
+public: Publicly accessible files (index.html, etc.).
 # Bootstrap Integration
 This project uses Bootstrap for styling and layout. You can customize the Bootstrap configuration by editing the bootstrap.config.js file.
 
